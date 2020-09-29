@@ -11,3 +11,6 @@ atributos mais superiores são mais relevantes.
 
 # CN2
 É um algoritmo que gera condições, bem parecido com a árvore de decisões
+
+# Resultados
+Os resultados desse experimento podem ser encontrados no arquivo resultados_census.txt
