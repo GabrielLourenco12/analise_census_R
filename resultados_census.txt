@@ -1,0 +1,43 @@
+Resultados Census
+----------------------------------
+0.7511 - ZeroR (base line classifier)
+
+0.8214 - Naive Bayes - categóricos + escalonamento
+0.8216 - Naive Bayes - categóricos
+0.8214 - Naive Bayes - escalonamento
+0.8216 - Naive Bayes - sem pré-processamento
+
+0.8351 - Árvore - categoricos + escalonamento
+0.8351 - Árvore - categoricos
+0.8351 - Árvore - escalonamento
+0.8351 - Árvore - sem pre-processamento
+
+0.8537 - Random forest 15 - categoricos + escalonamento
+0.8521 - Random forest 15 - categoricos
+0.8537 - Random forest 15 - escalonamento
+0.8521 - Random forest 15 - sem pre-processamento
+
+0.8042 - CN2 - categoricos + escalonamento
+0.8042 - CN2 - categoricos
+0.8042 - CN2 - escalonamento
+0.8042 - CN2 - sem pre-processamento
+
+0.8238 - kNN 5 - categoricos + escalonamento
+0.7635 - kNN 5 - categoricos
+?      - kNN 5 - escalonamento
+?      - kNN 5 - sem pre-processamento
+
+0.8373 - Regress?o log?stica - categ?ricos + escalonamento
+0.8373 - Regress?o log?stica - categ?ricos
+?      - Regress?o log?stica - escalonamento
+?      - Regress?o log?stica - sem pr?-processamento
+
+0.8413 - SVM kernel radial - categ?ricos + escalonamento
+?      - SVM kernel radial - categ?ricos
+0.8413 - SVM kernel radial - escalonamento
+?     - SVM kernel radial - sem pr?-processamento
+
+0.8285 - Rede neural - categ?ricos + escalonamento
+0.8384 - Rede neural - categ?ricos
+0.8194 - Rede neural - escalonamento
+0.8156 - Rede neural - sem pr?-processamento
